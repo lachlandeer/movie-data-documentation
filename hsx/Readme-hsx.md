@@ -14,10 +14,10 @@ There are 5 columns and 279,698 rows.
 | Column                  | Content                                                      |
 | ----------------------- | ------------------------------------------------------------ |
 | name                    | Full title of the movie                                      |
-| symbol                  | Unique key identifier for the movie                          |
+| symbol                  | Unique identifier for the movie                              |
 | date(st.release_date)   | Release Date of the Movie (M/D/YYYY)                         |
 | daily_close             | Predicted Box Office earnings for Day x (in million dollars) |
-| date(dh.update_date)    | Day x (m/d/year)                                             | 
+| date(dh.update_date)    | Day x (M/D/YYYY)                                             | 
 
 <fill in @LACHLAN>
 This data was scraped from Hollywood Stock Exchange <link> on <date>. 
