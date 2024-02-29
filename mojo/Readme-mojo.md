@@ -49,7 +49,7 @@ There are 8 columns.
 |-----------------|--------------------------------------------------------------|
 | movie_id        | Unique identifier for the movie                              |
 | year            | The year the movie is released                               |
-| date            | The date of the recorded earnings (Format: MMM. DD, YYYY)    |
+| date            | The date of the recorded earnings (MMM. DD, YYYY)    |
 | rank            | The rank of the movie in terms of daily box office earnings  |
 | boxOffice       | The earnings for that day in USD                             |
 | theatres        | The number of theaters the movie was shown in                |
