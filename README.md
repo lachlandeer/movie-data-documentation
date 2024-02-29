@@ -1,9 +1,3 @@
----
-editor_options 
-  markdown 
-    wrap 72
----
-
 This readme file was generated on 22-02-2024 by Lisa Holling
 
 # MOVIES DATA
@@ -30,7 +24,7 @@ Recommended citation for this dataset:
 
 
 ## Data & File Overview
-
+```
 movies-data-students 
 ├── cinemascore 
 ├── crosswalk 
@@ -43,6 +37,7 @@ movies-data-students
 ├── other 
 ├── the_numbers
 └── twitter_stats
+```
 
 ### Folder Content Overview
 
@@ -51,15 +46,15 @@ Below is a brief overview of the content each folder contains:
 | Folder          | Content                                                            |
 |-----------------|--------------------------------------------------------------------|
 | `cinemascore`   | Audience reaction ratings from CinemaScore                         |
-| `crosswalk`     | Mapping and cross-referencing data among different datasets.       |
-| `hsx`           | Daily predictions of Box Office from the Hollywood Stock Exchange. |
-| `metacritic`    | Critic reviews and ratings from Metacritic.                        |
-| `mojo`          | Box office data and Movie Characteristics from Box Office Mojo.    |
+| `crosswalk`     | Mapping and cross-referencing data among different datasets        |
+| `hsx`           | Daily predictions of Box Office from the Hollywood Stock Exchange  |
+| `metacritic`    | Critic reviews and ratings from Metacritic                         |
+| `mojo`          | Box office data and Movie Characteristics from Box Office Mojo     |
 | `news_pressure` | [I cannot open this file]                                          |
-| `nielsen-ads`   | Advertising spend data on different platforms from Nielsen.        |
-| `oscars`        | Information on Oscar nominations and wins.                         |
-| `other`         | Other files such as population statistics and sequels information. |
-| `the_numbers`   | Best estimate of production budgets.                               |
-| `twitter_stats` | Sentiment and volume of movie mentions on Twitter.                 |
+| `nielsen-ads`   | Advertising spend data on different platforms from Nielsen         |
+| `oscars`        | Information on Oscar nominations and wins                          |
+| `other`         | Other files such as population statistics and sequels information  |
+| `the_numbers`   | Best estimate of production budgets                                |
+| `twitter_stats` | Sentiment and volume of movie mentions on Twitter                  |
 
 
