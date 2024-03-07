@@ -18,8 +18,8 @@ cinemascore
 
 ## `data`
 
-The `data` folder contains eight CSV files, each for one year from 2009 to 2016. 
-Each file has 4 columns with information on the movie ID, title, release date, and audience score.
+The `data` folder contains 8 CSV files, each for one year from 2009 to 2016. \\
+Each file has 4 columns with information on the movie ID, title, release date, and audience score. \\
 Each row represents one movie.
 
 Below is an example of the structure for one of the CSV files in the data folder.

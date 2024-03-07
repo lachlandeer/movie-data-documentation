@@ -42,8 +42,8 @@ Each row in the CSV files represents the box office data for that movie on a giv
 
 In total, there are 145 movies in 2013; 147 in 2014; and 158 in 2015.
 
-Below is an example of one file in the daily/2014/ folder.
-There are 8 columns.
+Below is an example of one file in the `daily/2014/` folder. \\
+The files in this folder contain 8 columns.
 
 | Column          | Content                                                      |
 |-----------------|--------------------------------------------------------------|
@@ -55,10 +55,10 @@ There are 8 columns.
 | theatres        | The number of theaters the movie was shown in                |
 | grossBoxOffice  | The cumulative gross earnings up to that date                |
 | dayOfRelease    | The number of days since the movie was released              |                                           | 
-
+\\ 
 
 ## `charac`
-The `charac` folder contains two wide dataframes with movie characteristics for 2014 and 2015. 
+The `charac` folder contains two wide dataframes with movie characteristics for 2014 and 2015. \\
 These files contains 22 columns (i.e. movie characteristics) and 152 rows (i.e. movies) for 2014; and 158 rows for 2015.
 
 | Column                   | Content                                                |

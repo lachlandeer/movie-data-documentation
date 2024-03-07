@@ -6,7 +6,7 @@ The `the_numbers` folder contains 1 file with financial data related to movie pr
 the_numbers
 └── production_budgets.csv
 ```
-
+\\
 The `production_budgets.csv` file includes detailed records of movie production budgets, as well as domestic and worldwide gross revenues. Each row corresponds to one movie. There are 6 columns and 5316 rows.
 
 | Column           | Content                                                   |
