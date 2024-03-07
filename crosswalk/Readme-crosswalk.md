@@ -11,7 +11,8 @@ crosswalk
 ├── mojo_nielsen.csv
 └── numbers_mojo.csv
 ```
-\\
+
+
 For instance, the `hsx_mojo.csv` file includes a mapping of movie identifiers as shown below.
 
 ```

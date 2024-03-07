@@ -4,8 +4,8 @@ This readme file was generated on March 7, 2024 by [Lisa Holling](https://github
 
 ## General Information
 
-`movies-data-students` was collected and created by: \\
-Lachlan Deer ([L.K.Deer\@tilburguniversity.edu](mailto:L.K.Deer@tilburguniversity.edu)), \\
+`movies-data-students` was collected and created by: 
+Lachlan Deer ([L.K.Deer\@tilburguniversity.edu](mailto:L.K.Deer@tilburguniversity.edu)), 
 Assistant Professor at Tilburg University
 
 Date(s) of collection: \<fill in @LACHLAN\>
@@ -17,10 +17,13 @@ Date(s) of collection: \<fill in @LACHLAN\>
 
 <fill in below @LACHLAN>
 
-Licenses and restrictions placed on the data \\
-Links to publications that cite or use the data \\
-Links to other publicly accessible locations of the data \\
-Links and relationships to ancillary data sets \\
+Licenses and restrictions placed on the data 
+
+Links to publications that cite or use the data 
+
+Links to other publicly accessible locations of the data 
+
+Links and relationships to ancillary data sets 
 
 Recommended citation for this dataset:
 
