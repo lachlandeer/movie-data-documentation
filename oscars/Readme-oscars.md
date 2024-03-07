@@ -1,6 +1,6 @@
 # oscars
 
-The `oscars` folder contains 1 file with historical data from the nominees and winners of the Oscars Academy Awards.
+The `oscars` folder contains 1 file with historical data from the nominees and winners of the Oscar Academy Awards.
 
 ```
 oscars

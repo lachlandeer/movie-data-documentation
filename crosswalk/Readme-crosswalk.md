@@ -11,8 +11,8 @@ crosswalk
 ├── mojo_nielsen.csv
 └── numbers_mojo.csv
 ```
-
-For instance, the `hsx_mojo.csv` file includes a simple mapping of identifiers as shown below.
+\\
+For instance, the `hsx_mojo.csv` file includes a mapping of movie identifiers as shown below.
 
 ```
 | movie_id         | symbol            |
@@ -22,7 +22,7 @@ For instance, the `hsx_mojo.csv` file includes a simple mapping of identifiers a
 | 21jumpstreet2    | 21JS2             |
 ```
 
-Each identifier from the symbol column is matched with its corresponding movie_id, ensuring that data can be cross-referenced in the hsx files.
+Each identifier from the symbol column is matched with its corresponding movie_id, ensuring that data can be cross-referenced in the `hsx` files.
 
 <fill in @LACHLAN>
 This data was collected from ... <link> on <date>.

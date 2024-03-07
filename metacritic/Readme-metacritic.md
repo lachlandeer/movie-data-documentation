@@ -12,8 +12,7 @@ metacritic
     └── 2015-metaScores.csv
 ```
 ## `metaScores`
-Each file contains a metascore and the number of critic reviews for a movie collected in that year. 
-These files provide a critical view of how movies were received by critics each year.
+Each file contains an aggregated metascore and the number of critic reviews for a movie collected in that year. 
 
 Below is an example of the `2014-metaScores.csv` file. Each row corresponds to one movie. 
 There are 4 columns and 642 rows. 

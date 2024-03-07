@@ -42,7 +42,7 @@ There are 4 columns and 29116 rows.
 | nTweets         | The number of tweets  within that particular hour          |
 | movieName       | Unique identifier for the movie                |
 
-
+\\
 For example, the row below indicates that on January 16, 2016, there were 3 negative tweets about the movie antman between 15:00:00 and 16:00:00 hrs.
 
 | date                | vaderClassifier | nTweets | movieName |
