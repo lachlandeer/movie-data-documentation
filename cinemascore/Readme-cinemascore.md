@@ -16,7 +16,7 @@ cinemascore
     └── cinemaScore-2016-wide.csv`
 ```
 
-## data
+## `data`
 
 The `data` folder contains eight CSV files, each for one year from 2009 to 2016. 
 Each file has 4 columns with information on the movie ID, title, release date, and audience score.

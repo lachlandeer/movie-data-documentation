@@ -1,8 +1,7 @@
 # nielsen-ads
 
-The `nielsen-ads` folder contains an extensive collection of data files from Nielsen, detailing the advertising spend and occurrences for movies across different media channels. The data is segmented into categories such as cinema, television, internet, and other advertising platforms for the years 2014 and 2015. 
-
-Below is an overview, followed by a more detailed explanation of one of the data files.
+The `nielsen-ads` folder contains advertising data for movies across different media channels, obtained from Nielsen. 
+The data is segmented into categories such as cinema, television, internet, and other advertising platforms for the years 2014 and 2015. 
 
 ```
 nielsen-ads
@@ -26,8 +25,8 @@ nielsen-ads
     ├── movies_spottv_2014.csv
     └── movies_spottv_2015.csv
 ```
-
-These files provide a look at the advertising spend for each movie, offering insights into the marketing strategies and the intensity of the advertising efforts by studios and distributors. Each file is named according to the media channel and year the movie was released, for example, `movies_nationaltv_2014.csv` for national TV advertising data in 2014.
+## `CSV`
+These files provide information on the advertising spendings for each movie, offering insights into the marketing strategies and intensity of the advertising by studios and distributors. Each file is named according to the media channel and year the movie was released, for example, `movies_nationaltv_2014.csv` contains information on national TV advertising in 2014.
 
 ### File Example: `movies_nationaltv_2014.csv`
 
