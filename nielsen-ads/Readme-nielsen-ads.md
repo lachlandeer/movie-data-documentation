@@ -27,10 +27,7 @@ nielsen-ads
     └── movies_spottv_2015.csv
 ```
 
-
-## **Files Description**
-
-These files provide a look at the advertising spend for each movie, offering insights into the marketing strategies and the intensity of the advertising efforts by studios and distributors. Each file is named according to the media channel and year the movie was release, for example, `movies_nationaltv_2014.csv` for national TV advertising data in 2014.
+These files provide a look at the advertising spend for each movie, offering insights into the marketing strategies and the intensity of the advertising efforts by studios and distributors. Each file is named according to the media channel and year the movie was released, for example, `movies_nationaltv_2014.csv` for national TV advertising data in 2014.
 
 ### File Example: `movies_nationaltv_2014.csv`
 
