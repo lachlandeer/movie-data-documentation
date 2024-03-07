@@ -1,5 +1,6 @@
 # hsx
-The 'hsx' folder contains two files:
+
+The `hsx` folder contains 2 files with information on the Hollywood Stock Exchange prediction of movie box office earnings.
 
 ```
 hsx
@@ -7,7 +8,7 @@ hsx
 └── HSX_release_2015.csv
 ```
 
-These files contain information on the Hollywood Stock Exchange prediction of movie box office earnings in 2014 and 2015.
+These files contain information on the HSX prediction in 2014 and 2015.
 Each row shows the expected box office earnings for each movie on one day.
 There are 5 columns and 279,698 rows.
 
@@ -20,4 +21,4 @@ There are 5 columns and 279,698 rows.
 | date(dh.update_date)    | Day x (M/D/YYYY)                                             | 
 
 <fill in @LACHLAN>
-This data was scraped from Hollywood Stock Exchange <link> on <date>. 
+This data was collected from Hollywood Stock Exchange <link> on <date>. 

@@ -1,6 +1,6 @@
 # mojo
-The 'mojo' folder contains a 'boxoffice' folder and a 'charac' folder. 
-Below is an overview, and after is a more detailed explanation.
+
+The 'mojo' folder contains information on box office earnings and movie characteristics of all wide-release movies in 2013, 2014, and 2015.
 
 ```
 mojo
@@ -33,12 +33,12 @@ mojo
         └── movie-charac-wide-2015.csv       
 ```
 
-## **boxoffice**
+## `boxoffice`
 
-The `boxoffice` folder has seperate folders for 2013, 2014, and 2015.
-Each of those contains daily, weekly, and weekend box office earnings for all movies. 
-There is one .csv file for each movie.
-Each row in the .csv files represents the box office data for that movie on a given day, week, or weekend.
+The `boxoffice` folder has seperate folders for each year.
+Each of those contains daily, weekly, and weekend box office earnings for all wide-release movies in the United States. 
+There is one CSV file for each movie.
+Each row in the CSV files represents the box office data for that movie on a given day, week, or weekend.
 
 In total, there are 145 movies in 2013; 147 in 2014; and 158 in 2015.
 
@@ -57,7 +57,7 @@ There are 8 columns.
 | dayOfRelease    | The number of days since the movie was released              |                                           | 
 
 
-## **charac**
+## `charac`
 The `charac` folder contains two wide dataframes with movie characteristics for 2014 and 2015. 
 These files contains 22 columns (i.e. movie characteristics) and 152 rows (i.e. movies) for 2014; and 158 rows for 2015.
 
@@ -87,4 +87,4 @@ These files contains 22 columns (i.e. movie characteristics) and 152 rows (i.e. 
 | composers                | Composer(s) of the movie                               |
 
 <fill in @LACHLAN>
-This data was scraped from Box Office Mojo <link> on <date>. 
+This data was collected from Box Office Mojo <link> on <date>. 

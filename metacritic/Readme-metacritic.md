@@ -1,4 +1,5 @@
 # metacritic
+
 The `metacritic` folder contains 15 files with aggregated critic reviews and ratings from the Metacritic website. 
 
 ```
@@ -10,7 +11,7 @@ metacritic
     ├── ... 
     └── 2015-metaScores.csv
 ```
-
+## `metaScores`
 Each file contains a metascore and the number of critic reviews for a movie collected in that year. 
 These files provide a critical view of how movies were received by critics each year.
 

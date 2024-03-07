@@ -1,6 +1,6 @@
 # other
 
-The `other` folder is a collection of other datasets. This folder includes data on metascores, sequels, economic factors, and production budgets.
+The `other` folder is a collection of datasets. There are 5 different files that include data on metascores, sequels, economic factors, and production budgets.
 
 ```
 other
@@ -11,7 +11,7 @@ other
 └── wiki_budgets.csv
 ```
 
-## metascore_extra
+## `metascore_extra`
 
 The `metascore_extra` file contains additional data to the main metascore data in the `metacritic` folder. 
 The file contains 3 columns and 17 rows.
@@ -23,7 +23,7 @@ The file contains 3 columns and 17 rows.
 | n_reviews    | The number of critic reviews that contributed to the score   |
 
 
-## sequels
+## `sequels`
 
 The `sequels` file indicates whether a movie is a sequel or part of a series.
 The file contains 3 columns and 252 rows. 
@@ -66,3 +66,7 @@ The file contains 2 columns and 15 rows.
 |-------------------|--------------------------------------------------------------|
 | movie_id          | Unique identifier for the movie                              |
 | production_budget | Budget for producing the movie                               |
+
+
+<fill in @LACHLAN>
+These datasets were collected from ... <link> on <date>.

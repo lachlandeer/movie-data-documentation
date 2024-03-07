@@ -1,6 +1,6 @@
 # crosswalk
+
 The `crosswalk` folder contains 6 files that serve as a mapping tool between the different datasets. 
-These mappings are crucial for cross-referencing movie id's across all datasets. 
 
 ```
 crosswalk
@@ -23,3 +23,6 @@ For instance, the `hsx_mojo.csv` file includes a simple mapping of identifiers a
 ```
 
 Each identifier from the symbol column is matched with its corresponding movie_id, ensuring that data can be cross-referenced in the hsx files.
+
+<fill in @LACHLAN>
+This data was collected from ... <link> on <date>.
