@@ -7,9 +7,12 @@ hsx
 ├── HSX_release_2014.csv
 └── HSX_release_2015.csv
 ```
-\\
-These files contain information on the HSX prediction in 2014 and 2015. \\
-Each row shows the expected box office earnings for each movie on one day. \\
+
+
+These files contain information on the HSX prediction in 2014 and 2015. 
+
+Each row shows the expected box office earnings for each movie on one day. 
+
 For example, in `HSX_release_2014.csv`, there are 5 columns and 279,698 rows.
 
 | Column                  | Content                                                      |
