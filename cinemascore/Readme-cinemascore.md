@@ -3,8 +3,6 @@
 The `cinemascore` folder contains data on movie audience scores from CinemaScore. 
 This data is organized by year in individual CSV files. 
 
-Below is an overview, followed by a more detailed explanation.
-
 ```
 cinemascore
 └── data
