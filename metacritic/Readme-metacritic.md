@@ -3,11 +3,12 @@ The `metacritic` folder contains 15 files with aggregated critic reviews and rat
 
 ```
 metacritic
-├── 2000-metaScores.csv
-├── 2001-metaScores.csv
-├── 2002-metaScores.csv
-├── ... 
-└── 2015-metaScores.csv
+└── metaScores
+    ├── 2000-metaScores.csv
+    ├── 2001-metaScores.csv
+    ├── 2002-metaScores.csv
+    ├── ... 
+    └── 2015-metaScores.csv
 ```
 
 Each file contains a metascore and the number of critic reviews for a movie collected in that year. 
