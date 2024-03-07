@@ -32,13 +32,10 @@ nielsen-ads
 
 These files provide a look at the advertising spend for each movie, offering insights into the marketing strategies and the intensity of the advertising efforts by studios and distributors. Each file is named according to the media channel and year the movie was release, for example, `movies_nationaltv_2014.csv` for national TV advertising data in 2014.
 
-### Detailed File Example: `movies_nationaltv_2014.csv`
-
-The `movies_nationaltv_2014.csv` file contains records of advertising occurrences for movies on national television in the year 2014. The dataset is comprehensive, with a total of 2,490,790 rows, each representing an individual ad occurrence with corresponding metadata.
+### File Example: `movies_nationaltv_2014.csv`
 
 An example of the data structure for the `movies_nationaltv_2014.csv` file is as follows:
 
-Below is an example of the `movies_nationaltv_2014.csv` file. 
 Each row provides specific details about an ad's airing, such as codes related to the TV program, date, time, spend, duration, and demographic viewership figures.
 
 In total, this file contains 108 columns and 2.490.790 rows.
@@ -60,5 +57,5 @@ Note: This table only includes a selection of columns from the actual dataset.
 Also note that the files on National and Spot TV cover around 90% of all advertising spendings. 
 
 <fill in @LACHLAN>
-This data was collected from Metacritic <link> on <date>.
+This data was collected from Nielsen <link> on <date>.
 
